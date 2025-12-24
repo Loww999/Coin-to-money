@@ -1,0 +1,19 @@
+name: CoinToMoney
+version: 1.0.0
+main: CoinToMoney\Main
+api: 5.0.0
+author: LowwFlowww
+
+depend:
+  - EconomyAPI
+  - CoinAPI
+  - FormAPI
+
+commands:
+  cointomoney:
+    description: Convert coins into money
+    permission: cointomoney.use
+
+permissions:
+  cointomoney.use:
+    default: true
