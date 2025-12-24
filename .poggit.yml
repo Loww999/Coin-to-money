@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Loww999/Coin-to-money
+build-by-default: true
+branches:
+- main
+projects:
+  Coin-to-money:
+    path: ""
+...
