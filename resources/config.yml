@@ -1,0 +1,13 @@
+rate:
+  coin-to-money: 20000000 
+
+settings:
+  minimum-convert: 1
+
+messages:
+  title: "Coin Converter"
+  rate-info: "§eRate: §f1 Coin = §a{rate}"
+  input: "Enter coin amount"
+  success: "§aSuccessfully converted §e{coin} §acoins into §e{money} §amoney!"
+  not-enough-coin: "§cYou do not have enough coins."
+  invalid-number: "§cPlease enter a valid amount."
